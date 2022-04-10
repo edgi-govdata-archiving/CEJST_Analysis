@@ -1,27 +1,14 @@
  [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/main/CONDUCT.md)
 
 # Template
-Based on the EDGI Repo Guidelines at https://github.com/edgi-govdata-archiving/overview/blob/main/repo_guidelines.md
+The Biden-Harris administration has long championed a "Justice40" approach to allocating climate-related spending. In early 2021, Biden signed Executive Order 14008, which directed government agencies to prioritize their investments in disadvantaged communities. To aid in this effort, the White House Environmental Justice Advisory Council (WHEJAC) met to make recommendations for determining what counts as a "disadvantaged community". In February 2022, the Council on Environmental Quality (CEQ) released its draft analysis for such a tool, drawing on similar approaches taken by US Environmental Protection Agency (EPA) in its EJScreen tool and the State of California's CalEnviroScreen.
 
-This repo is a template for all EDGI templates. Replace this paragraph with a description of the repo.
+EDGI generally supports the proposed methodology, and we believe it can deliver tangible benefits to communities. We conducted an independent analysis of CEJST, testing what it would look like to incorporate EPA datasets on government enforcement of and industry compliance with environmental protection laws like the Clean Air Act. Based on this analysis, we believe the methodology should consider:
+- Growing the list of communities (Census tracts) based on the inclusion of additional criteria, namely, indicators related to enforcement and compliance. We find that an additional ~100 tracts could be identified as "disadvantaged" by including these indicators. 
+- Evaluating what, at an economic structural level, unites the tracts already identified as disadvantaged. We find that a plurality of them are home to fossil-fuel electricity generating facilities, such as coal-fired power plants, and that many are also home to natural gas pipelines. As such, Justice40 should prioritize investing in community-level energy transitions, phasing out fossil fuel infrastructures that have disproportionately burdened low-income and racialized neighborhoods.
+- Shrinking the list based on additional enforcement and compliance indicators. We find that ~1,000 out of the 23,000 tracts already identified (~5%) could be consider “priorities” based on limited enforcement of environmental protection laws and/or limited industry compliance with them.
 
-# How to start contributing to this repo
-* Instructions go here
-* Developer setup (if relevant)
-* Slack channel (if relevant)
-
-**Suggestions for additional components of Readmes:**
-* A "How to use" section if the repo's project is a tool or website
-* A link to the [good-first-issue](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue+user%3Aedgi-govdata-archiving) label (this link across EDGI, or a specific link for the repo)
-* Highlight "ready" label on issues to mean "this is an issue that is ready to work on and needs an owner"
-* Additional badges at the top, such as code quality indicators
-* "[All contributors](https://github.com/kentcdodds/all-contributors#emoji-key)" listing, following these additional guidelines (example: [web-monitoring-db contributors list](https://github.com/edgi-govdata-archiving/web-monitoring-db#contributors)):
-  - Compact representation without avatars (less visual noise; easier to focus on contributions)
-  - Icons are links with title attributes (accessibility)
-  - Alphabetical order by surname/name/username (to eliminate implied ranking)
-  - Presence in the list (and the name used) is optional and up to the contributor (not everyone wants to be listed — we offer, but do not add unless someone explicitly says yes)
-
-**When using this template, please look through all of the files to ensure they apply to the new repo.**
+You can run the analysis for yourself by running the two Jupyter Notebooks in this repo. We welcome any suggested edits or additions!
 
 ---
 
