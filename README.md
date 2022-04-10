@@ -10,6 +10,11 @@ EDGI generally supports the proposed methodology, and we believe it can deliver 
 
 You can run the analysis for yourself by running the two Jupyter Notebooks in this repo. We welcome any suggested edits or additions!
 
+## Files
+- `CEJST_prep.ipynb` pulls data from EDGI's copy of EPA data hosted by the Stony Brook University. It produces a single output file, `echo_data.csv`, that can be used as input for the analysis...
+- `EDGI_CEJST_Analysis.ipynb` uses the output from `CEJST_prep.ipnyb` to extend the existing CEJST methodology with enforcement and compliance indicators of "disdvantageness." Inputs for this notebook also include the CEJST preliminary results themselves (drawn directly from the CEJST website), a list of industry classification codes (NAICS; drawn directly from its website), and Census data.
+- `DECENNIALSF12010.P5_data_with_overlays_2022-03-30T170415.csv` is a US Census data file available [here](https://data.census.gov/cedsci/table?q=United%20States&t=Race%20and%20Ethnicity&g=0100000US%241400000&y=2010&d=DEC%20Summary%20File%201&tid=DECENNIALSF12010.P5).
+
 ---
 
 ## License & Copyright
