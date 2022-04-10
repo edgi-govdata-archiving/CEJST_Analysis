@@ -1,6 +1,6 @@
  [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/main/CONDUCT.md)
 
-# Template
+# EDGI's Analysis of the Climate and Economic Justice Screening Tool (CEJST) Methodology
 The Biden-Harris administration has long championed a "Justice40" approach to allocating climate-related spending. In early 2021, Biden signed Executive Order 14008, which directed government agencies to prioritize their investments in disadvantaged communities. To aid in this effort, the White House Environmental Justice Advisory Council (WHEJAC) met to make recommendations for determining what counts as a "disadvantaged community". In February 2022, the Council on Environmental Quality (CEQ) released its draft analysis for such a tool, drawing on similar approaches taken by US Environmental Protection Agency (EPA) in its EJScreen tool and the State of California's CalEnviroScreen.
 
 EDGI generally supports the proposed methodology, and we believe it can deliver tangible benefits to communities. We conducted an independent analysis of CEJST, testing what it would look like to incorporate EPA datasets on government enforcement of and industry compliance with environmental protection laws like the Clean Air Act. Based on this analysis, we believe the methodology should consider:
